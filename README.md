@@ -32,7 +32,7 @@ To explore the project and its resources, follow these steps:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Dileeban1108/How_firewall_works
+   git clone https://github.com/Dileeban1108/How_firewalls_works.git
 
 ## Usage
 Feel free to explore the video demonstration and accompanying documentation to gain a better understanding of how firewalls work.
